@@ -23,7 +23,7 @@ En el output del terminal encontrarás opciones para abrir la app en:
 - [Simulador iOS](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go),un sandbox limitado para probar la el desarrollo de la app con Expo (se recomienda usar este método, este utilicé para el desarrollo de la app, requiere instalar expo go en su dispositivo móvil).
 
-Puedes editar los archivos del proyecto y verás los cambios reflejadoa en la app. Este proyecto utiliza routing basado en archivos [file-based routing](https://docs.expo.dev/router/introduction). (También tengo experiencia principalmente con apps hechas con react mative cli por si necesitan esa forma).
+Puedes editar los archivos del proyecto y verás los cambios reflejadoa en la app. Este proyecto utiliza routing basado en archivos [file-based routing](https://docs.expo.dev/router/introduction). (También tengo experiencia principalmente con apps hechas con react native cli por si necesitan esa forma de navegacion. Expo utiliza una abstracción para el routing basada en react-navigation).
 
 ## Estructura del proyecto
 
